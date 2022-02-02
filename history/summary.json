@@ -4,7 +4,7 @@
     "url": "https://schoen.world",
     "icon": "https://favicons.githubusercontent.com/schoen.world",
     "slug": "schoen-world",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 94,
     "timeMonth": 149,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   },
   {
     "name": "Timeline",
