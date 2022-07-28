@@ -24,7 +24,7 @@
     "url": "https://timeline.schoen.world",
     "icon": "https://favicons.githubusercontent.com/timeline.schoen.world",
     "slug": "timeline",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 234,
     "timeMonth": 201,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   }
 ]
