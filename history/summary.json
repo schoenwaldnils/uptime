@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 174,
-    "timeDay": 89,
-    "timeWeek": 235,
-    "timeMonth": 190,
+    "timeDay": 218,
+    "timeWeek": 258,
+    "timeMonth": 193,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2022-02-02": 61
@@ -26,17 +26,15 @@
     "slug": "timeline",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 224,
-    "timeWeek": 222,
-    "timeMonth": 199,
-    "timeYear": 189,
-    "dailyMinutesDown": {
-      "2022-07-28": 5
-    }
+    "time": 190,
+    "timeDay": 327,
+    "timeWeek": 259,
+    "timeMonth": 212,
+    "timeYear": 190,
+    "dailyMinutesDown": {}
   }
 ]
