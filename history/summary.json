@@ -2,7 +2,7 @@
   {
     "name": "Schoen World",
     "url": "https://schoen.world",
-    "icon": "https://favicons.githubusercontent.com/schoen.world",
+    "icon": "https://icons.duckduckgo.com/ip3/schoen.world.ico",
     "slug": "schoen-world",
     "status": "up",
     "uptime": "99.99%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 169,
-    "timeDay": 54,
-    "timeWeek": 105,
-    "timeMonth": 136,
+    "timeDay": 268,
+    "timeWeek": 130,
+    "timeMonth": 142,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2022-02-02": 61
@@ -22,7 +22,7 @@
   {
     "name": "Timeline",
     "url": "https://timeline.schoen.world",
-    "icon": "https://favicons.githubusercontent.com/timeline.schoen.world",
+    "icon": "https://icons.duckduckgo.com/ip3/timeline.schoen.world.ico",
     "slug": "timeline",
     "status": "up",
     "uptime": "100.00%",
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 640,
-    "timeWeek": 237,
-    "timeMonth": 238,
+    "timeDay": 368,
+    "timeWeek": 280,
+    "timeMonth": 247,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2022-08-26": 19
