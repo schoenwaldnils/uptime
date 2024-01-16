@@ -4,19 +4,19 @@
     "url": "https://schoen.world",
     "icon": "https://icons.duckduckgo.com/ip3/schoen.world.ico",
     "slug": "schoen-world",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 5444,
-    "timeWeek": 1494,
-    "timeMonth": 506,
+    "timeDay": 3682,
+    "timeWeek": 1345,
+    "timeMonth": 496,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-01-16": 0
+      "2024-01-16": 5
     }
   },
   {
