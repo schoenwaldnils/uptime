@@ -1,7 +1,7 @@
 url: https://schoen.world
-status: up
-code: 200
-responseTime: 333
-lastUpdated: 2024-01-16T23:01:32.939Z
+status: down
+code: 500
+responseTime: 155
+lastUpdated: 2024-01-17T21:56:17.828Z
 startTime: 2021-11-25T04:45:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
