@@ -4,19 +4,19 @@
     "url": "https://schoen.world",
     "icon": "https://icons.duckduckgo.com/ip3/schoen.world.ico",
     "slug": "schoen-world",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 244,
-    "timeWeek": 1244,
-    "timeMonth": 483,
+    "timeDay": 236,
+    "timeWeek": 1151,
+    "timeMonth": 475,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://timeline.schoen.world",
     "icon": "https://icons.duckduckgo.com/ip3/timeline.schoen.world.ico",
     "slug": "timeline",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 942,
-    "timeWeek": 506,
-    "timeMonth": 492,
-    "timeYear": 300,
+    "timeDay": 768,
+    "timeWeek": 496,
+    "timeMonth": 490,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 6
     }
   }
 ]
