@@ -22,19 +22,19 @@
     "url": "https://timeline.schoen.world",
     "icon": "https://icons.duckduckgo.com/ip3/timeline.schoen.world.ico",
     "slug": "timeline",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 59,
-    "timeWeek": 206,
-    "timeMonth": 344,
+    "time": 291,
+    "timeDay": 243,
+    "timeWeek": 234,
+    "timeMonth": 347,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2024-06-11": 0
+      "2024-06-11": 4
     }
   }
 ]
