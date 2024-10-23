@@ -6,18 +6,16 @@
     "slug": "schoen-world",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 263,
-    "timeWeek": 147,
-    "timeMonth": 239,
-    "timeYear": 271,
-    "dailyMinutesDown": {
-      "2024-10-22": 10
-    }
+    "time": 246,
+    "timeDay": 173,
+    "timeWeek": 146,
+    "timeMonth": 233,
+    "timeYear": 270,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Timeline",
@@ -26,17 +24,15 @@
     "slug": "timeline",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 310,
-    "timeWeek": 212,
-    "timeMonth": 243,
+    "time": 275,
+    "timeDay": 302,
+    "timeWeek": 215,
+    "timeMonth": 248,
     "timeYear": 283,
-    "dailyMinutesDown": {
-      "2024-10-22": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
