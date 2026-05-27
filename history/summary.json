@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/schoen.world.ico",
     "slug": "schoen-world",
     "status": "up",
-    "uptime": "77.34%",
+    "uptime": "77.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 602,
-    "timeDay": 1270,
-    "timeWeek": 1068,
-    "timeMonth": 947,
-    "timeYear": 716,
+    "time": 604,
+    "timeDay": 1138,
+    "timeWeek": 1084,
+    "timeMonth": 951,
+    "timeYear": 718,
     "dailyMinutesDown": {
-      "2026-05-26": 32,
+      "2026-05-27": 34,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -379,8 +380,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/timeline.schoen.world.ico",
     "slug": "timeline",
     "status": "up",
-    "uptime": "77.34%",
+    "uptime": "77.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 282,
-    "timeDay": 115,
-    "timeWeek": 268,
-    "timeMonth": 228,
+    "timeDay": 281,
+    "timeWeek": 273,
+    "timeMonth": 233,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2026-05-26": 32,
+      "2026-05-27": 34,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -763,8 +764,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   }
 ]
