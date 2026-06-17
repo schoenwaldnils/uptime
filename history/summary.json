@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/schoen.world.ico",
     "slug": "schoen-world",
     "status": "up",
-    "uptime": "76.36%",
+    "uptime": "76.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 624,
-    "timeDay": 1139,
-    "timeWeek": 980,
-    "timeMonth": 939,
-    "timeYear": 746,
+    "time": 625,
+    "timeDay": 662,
+    "timeWeek": 914,
+    "timeMonth": 929,
+    "timeYear": 747,
     "dailyMinutesDown": {
-      "2026-06-16": 45,
+      "2026-06-17": 40,
+      "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -379,8 +380,7 @@
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
-      "2025-06-18": 1440,
-      "2025-06-17": 1440
+      "2025-06-18": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/timeline.schoen.world.ico",
     "slug": "timeline",
     "status": "down",
-    "uptime": "76.36%",
+    "uptime": "76.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 297,
-    "timeDay": 2246,
-    "timeWeek": 1435,
-    "timeMonth": 548,
-    "timeYear": 307,
+    "time": 302,
+    "timeDay": 2730,
+    "timeWeek": 1760,
+    "timeMonth": 630,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2026-06-16": 45,
+      "2026-06-17": 40,
+      "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -763,8 +764,7 @@
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
-      "2025-06-18": 1440,
-      "2025-06-17": 1440
+      "2025-06-18": 1440
     }
   }
 ]
